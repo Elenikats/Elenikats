@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Eleni, a web developer living in Berlin. I am currently looking for a front-end developer position! 👩‍💻
+I am Eleni,  a web developer living in Berlin. I am currently looking for a front-end developer position! 👩‍💻
 
 🔭 I’m currently working on:
 -  My React, Express, and Node skills
