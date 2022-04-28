@@ -16,9 +16,9 @@ My name is Eleni and I'm a full-stack web developer living in Berlin. I am curre
 
   - [Connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/)
 
-- 🌸 Fun fact: I have more than 100 houseplants! 🌿
+- 🌸 Fun fact: I have more than 100 houseplants 🌿 and love bakind my own sourdough bread :bread:
  
-- ⚡ Hobbies: bouldering, swing dancing, acrobatics and baking sourdough bread :)
+- ⚡ Hobbies: bouldern, swing dancing, acrobatics :)
 
 <!--
 **Elenikats/Elenikats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
