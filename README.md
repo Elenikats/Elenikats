@@ -9,16 +9,14 @@ My name is Eleni and I'm a full-stack web developer living in Berlin. I am curre
 
 - 🤔 Technologies I would like to learn next: Typescript
 
-- 💬 Ask me about: 
-  - Anything related to coding and houseplants! 💻 🌵
+- 💬 Ask me about: Anything related to coding and houseplants! 💻 🌵
 
 - 📫 How to reach me: 
   - [Drop a Mail](mailto:elenhkatsa@gmail.com) 📧
 
   - [Connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/)
 
-- 🌸 Fun fact: 
-  - I have more than 100 houseplants! 🌿
+- 🌸 Fun fact: I have more than 100 houseplants! 🌿
  
 - ⚡ Hobbies: bouldering, swing dancing, acrobatics and baking sourdough bread :)
 
