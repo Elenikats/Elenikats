@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Eleni - a full-stack web developer living in Berlin. I am currently looking for a front-end developer position! 👩‍💻
+I'm Eleni - a full-stack web developer living in Berlin. 👩‍💻
 
 - My technology stack:  
     - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -21,7 +21,7 @@ I'm Eleni - a full-stack web developer living in Berlin. I am currently looking 
 
 - 💬 Ask me about: Anything related to coding and houseplants! 💻 🌵
 
-- 📫 How to reach me: [Drop me a Mail](mailto:elenhkatsa@gmail.com) 📧 or [let's connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/)
+- 📫 How to reach me: [Drop me a Mail](mailto:elenhkatsa@gmail.com) 📧 or [let's connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/) :)
 
 - 🌸 Fun fact: I have more than 100 houseplants :potted_plant: and love bakind my own sourdough bread :bread:
  
