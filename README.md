@@ -13,9 +13,7 @@ I'm Eleni - a full-stack web developer living in Berlin. I am currently looking 
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-- 🔭 I’m currently working on:
-  -  My React, Express, and Node skills
-  -  Another MERN Stack App 
+- 🔭 I’m currently working on: My React, Express, and Node skills 
 
 - 🌱 I’m currently learning: Express and MongoDB
 
@@ -23,10 +21,7 @@ I'm Eleni - a full-stack web developer living in Berlin. I am currently looking 
 
 - 💬 Ask me about: Anything related to coding and houseplants! 💻 🌵
 
-- 📫 How to reach me: 
-  - [Drop a Mail](mailto:elenhkatsa@gmail.com) 📧
-
-  - [Connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/)
+- 📫 How to reach me: [Drop me a Mail](mailto:elenhkatsa@gmail.com) 📧 or [let's connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/)
 
 - 🌸 Fun fact: I have more than 100 houseplants :potted_plant: and love bakind my own sourdough bread :bread:
  
