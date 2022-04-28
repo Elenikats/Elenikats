@@ -1,12 +1,6 @@
 ### Hi there 👋 
 I'm Eleni - a full-stack web developer living in Berlin. I am currently looking for a front-end developer position! 👩‍💻
 
-- 🔭 I’m currently working on:
-  -  My React, Express, and Node skills
-  -  Another MERN Stack App 
-
-- 🌱 I’m currently learning: Express and MongoDB
-
 - My technology stack:  
     - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
@@ -18,8 +12,13 @@ I'm Eleni - a full-stack web developer living in Berlin. I am currently looking 
     ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  
 
+- 🔭 I’m currently working on:
+  -  My React, Express, and Node skills
+  -  Another MERN Stack App 
+
+- 🌱 I’m currently learning: Express and MongoDB
+- 
 - 🤔 Technologies I would like to learn next: Typescript
 
 - 💬 Ask me about: Anything related to coding and houseplants! 💻 🌵
