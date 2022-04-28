@@ -5,11 +5,9 @@ My name is Eleni and I'm a full-stack web developer living in Berlin. I am curre
   -  My React, Express, and Node skills
   -  Another MERN Stack App 
 
-- 🌱 I’m currently learning: MongoDB
+- 🌱 I’m currently learning: Express and MongoDB
 
-- 🤔 Technologies I would like to learn next: 
-  - Typescript
-  - Vue.js
+- 🤔 Technologies I would like to learn next: Typescript
 
 - 💬 Ask me about: 
   - Anything related to coding and houseplants! 💻 🌵
