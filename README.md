@@ -5,14 +5,13 @@ My name is Eleni and I'm a full-stack web developer living in Berlin. I am curre
   -  My React, Express, and Node skills
   -  Another MERN Stack App 
 
-- 🌱 I’m currently learning:
-  - MongoDB
+- 🌱 I’m currently learning: MongoDB
 
 - 🤔 Technologies I would like to learn next: 
   - Typescript
   - Vue.js
 
-- 💬 Ask me about:
+- 💬 Ask me about: 
   - Anything related to coding and houseplants! 💻 🌵
 
 - 📫 How to reach me: 
@@ -21,13 +20,9 @@ My name is Eleni and I'm a full-stack web developer living in Berlin. I am curre
   - [Connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/)
 
 - 🌸 Fun fact: 
-  - I have 103 houseplants! 🌿
+  - I have more than 100 houseplants! 🌿
  
-- ⚡ Hobbies
-   - Bouldering
-   - Swing dancing
-   - Acrobatics
-   - Baking sourdough bread
+- ⚡ Hobbies: bouldering, swing dancing, acrobatics and baking sourdough bread :)
 
 <!--
 **Elenikats/Elenikats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
