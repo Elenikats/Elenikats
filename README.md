@@ -23,6 +23,6 @@ I'm Eleni - a full-stack web developer living in Berlin. 👩‍💻
 
 - 📫 How to reach me: [Drop me a Mail](mailto:elenhkatsa@gmail.com) 📧 or [let's connect via LinkedIn](https://www.linkedin.com/in/eleni-katsareli/) :)
 
-- 🌸 Fun fact: I have more than 100 houseplants :potted_plant: and love bakind my own sourdough bread :bread:
+- 🌸 Fun fact: I have more than 100 houseplants :potted_plant: and love baking my own sourdough bread :bread:
  
 - ⚡ Hobbies: bouldern, swing dancing, acrobatics :cartwheeling:
