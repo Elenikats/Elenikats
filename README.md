@@ -16,7 +16,7 @@ I'm Eleni - a full-stack web developer living in Berlin. 👩‍💻
     
 - 🔭 I’m currently working on: My React, Express, and Node skills 
 
-- 🌱 I’m currently learning: Express and MongoDB
+- 🌱 I’m currently learning: React Native
 
 - 🤔 Technologies I would like to learn next: Typescript
 
