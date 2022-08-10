@@ -14,7 +14,7 @@ I'm Eleni - a full-stack web developer living in Berlin. 👩‍💻
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     </p>
     
-- 🔭 I’m currently working on: My React, Express, and Node skills 
+- 🔭 I’m currently working on: Algorithms and building my personal portfolio 
 
 - 🌱 I’m currently learning: React Native
 
