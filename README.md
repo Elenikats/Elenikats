@@ -16,9 +16,9 @@ I'm Eleni - a full-stack web developer living in Berlin. 👩‍💻
     
 - 🔭 I’m currently working on: Algorithms and building my personal portfolio website
 
-- 🌱 I’m currently learning: React Native
+- 🌱 I’m currently learning: Typescript
 
-- 🤔 Technologies I would like to learn next: Typescript
+- 🤔 Technologies I would like to learn next: GraphQL
 
 - 💬 Ask me about: Anything related to coding and houseplants! 💻 🌵
 
