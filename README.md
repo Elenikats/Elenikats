@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Eleni - a full-stack web developer living in Berlin. 👩‍💻
+I'm Eleni - a junior frontend developer living in Berlin. 👩‍💻
 
 - My technology stack: 
 
